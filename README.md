@@ -1,4 +1,4 @@
-# BaseballSim
+# Using Markov Models to Simulate Baseball games
 All Simulation Code is in `Game Sim.ipynb`
 
 `Outs.csv` is the Matrix used for totalling up the outs
